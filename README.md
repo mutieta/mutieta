@@ -2,4 +2,4 @@
 
 ![Coding](https://img.shields.io/badge/LEARNING%20-PYTHOn-blue?style=flat-square&logo=python)
 
-![snake gif](https://github.com/mutieta/mutieta/raw/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/mutieta/mutieta/blob/output/github-contribution-grid-snake.svg)
