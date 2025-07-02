@@ -8,4 +8,4 @@
 
 ### 🔥 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mutieta&theme=blueberry)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?username=mutieta&theme=blueberry)](https://git.io/streak-stats)
